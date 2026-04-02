@@ -11,7 +11,6 @@ For determining which fields are present in the JSON Object, I would recommend t
 ## Limitations
 
 The library does not currently support fields of these types:
-- float/double
 - int64
 - Map
 
