@@ -14,4 +14,4 @@ The library does not currently support fields of these types:
 - int64
 - Map
 
-Float/Double and int64 could be supported without that much effort, but I have had no personal need for it.
+int64 could be supported without that much effort, but I have had no personal need for it.
